@@ -1,4 +1,4 @@
-# Mounting Party
+# 🏔️ Mounting Party
 
 A demonstration project showing how to mount remote cloud storage buckets (AWS S3, Google Cloud Storage, and Cloudflare R2) into a [Cloudflare Container](https://developers.cloudflare.com/containers/) using FUSE filesystem.
 
